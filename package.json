@@ -1,7 +1,7 @@
 {
   "name": "@react-native/monorepo",
   "private": true,
-  "version": "0.72.4",
+  "version": "v0.72.4-custom",
   "description": "A framework for building native apps using React",
   "license": "MIT",
   "repository": "github:facebook/react-native",
